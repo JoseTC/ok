@@ -24,7 +24,7 @@ img{
 	font-size:30px;
 	color:green;
 }
-html{
-	background-color: hsl(187°, 90%, 61%);
+body{
+	background-color: #4286f4;
 	color: white;
 }
